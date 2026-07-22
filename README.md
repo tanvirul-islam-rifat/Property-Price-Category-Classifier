@@ -28,7 +28,7 @@ Real-estate platforms often need to auto-tag new listings with a price bracket b
 | KNN (k=5) | 0.3167 | 0.3152 | 0.3196 | 0.3068 | 0.4684 |
 | Neural Network | 0.3444 (test acc.) | — | — | — | — |
 
-**Key finding:** every model — across four different learning paradigms — converges to roughly the same 32–38% accuracy band on a balanced 3-class problem, only marginally above the 33.3% random-guessing baseline. This matches the EDA: the correlation heatmap and boxplots both showed very weak association between the available features and the price category label. Rather than reporting a marginal accuracy as a success, this project treats the convergent low performance as the actual finding — full reasoning is in the [report](report/Flat_Price_Classification_Report.pdf).
+**Key finding:** every model — across four different learning paradigms — converges to roughly the same 32–38% accuracy band on a balanced 3-class problem, only marginally above the 33.3% random-guessing baseline. This matches the EDA: the correlation heatmap and boxplots both showed very weak association between the available features and the price category label. Rather than reporting a marginal accuracy as a success, this project treats the convergent low performance as the actual finding — full reasoning is in the [report](Flat_Price_Classification_Report.pdf).
 
 ## Repository Structure
 
