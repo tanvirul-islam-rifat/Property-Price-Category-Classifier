@@ -75,4 +75,4 @@ Real-estate platforms often need to auto-tag new listings with a price bracket b
 ## Author
 **Md. Tanvirul Islam Rifat**
 - **GitHub:** [@tanvirul-islam-rifat](https://github.com/tanvirul-islam-rifat)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YourLinkedInProfile)
+- **LinkedIn:** [Tanvirul Islam Rifat](https://www.linkedin.com/in/tanvirul-islam-rifat)
