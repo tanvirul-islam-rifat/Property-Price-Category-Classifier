@@ -1,6 +1,6 @@
 # Property Price Category Classifier
 
-A supervised machine learning pipeline that classifies residential flats into **Low / Medium / High** price categories using structural features (size, bedrooms, bathrooms, floor, age) and locational features (location tier, distance to city center, nearby schools, security level). Built for **CSE422 — Artificial Intelligence** at BRAC University.
+A supervised machine learning pipeline that classifies residential flats into **Low / Medium / High** price categories using structural features (size, bedrooms, bathrooms, floor, age) and locational features (location tier, distance to city center, nearby schools, security level).
 
 ## Problem
 
